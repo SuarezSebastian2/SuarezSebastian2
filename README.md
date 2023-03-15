@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SuarezSebastian2
-- 👀 I’m interested in Java, C#, Python
+- 👀 I’m interested in Java, C#, Python, NodeJs
 - 🌱 I’m currently learning Java, JavaScript, C#, RPA
 - 📫 How to reach me suarezsebastian98@hotmail.com
 
